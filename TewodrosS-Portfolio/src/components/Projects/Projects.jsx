@@ -16,14 +16,15 @@ function Projects() {
   image: "https://www.thedigitalenterprise.com/wp-content/uploads/2019/03/Building-Mobile-E-Commerce-App-%E2%80%93-A-Complete-Handbook.jpg",
 },
 
-  {
+{
   name: "Chat Application",
-  desc: "Real-time chat app with WebSocket and JWT authentication.",
-  tech: ["React", "Express", "Socket.io"],
+  desc: "Real-time chat app with WebSocket, JWT authentication, and email notifications.",
+  tech: ["React", "Express", "Socket.io", "EmailJS"],
   link: "https://chat-application-nb7e.vercel.app/",
   github: "https://github.com/tedyoff/Chat-Application",
   image: "public/images/chatapp.jpg",
 },
+
 
     {
       name: "Student Attendance Tracker",
