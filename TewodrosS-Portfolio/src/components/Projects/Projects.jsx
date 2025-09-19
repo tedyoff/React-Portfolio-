@@ -29,7 +29,7 @@ function Projects() {
     {
       name: "Student Attendance Tracker",
       desc: "App to track student attendance with secure login and data visualization.",
-      tech: ["React", "Node.js", "MongoDB", "JWT"],
+      tech: ["React", "Node.js", "JWT"],
       link: "https://student-attendance-tracker-mocha-three.vercel.app/",
       github: `https://github.com/tedyoff/student-attendance-tracker`,
       image: "public/images/attendance.jpg",
@@ -45,7 +45,7 @@ function Projects() {
     {
       name: "Blog Platform",
       desc: "Full-stack blogging platform with markdown support and authentication.",
-      tech: ["Next.js", "MongoDB", "JWT"],
+      tech: ["react", "MySQL", "JWT"],
       link: "https://your-blog-demo.com",
       github: `https://github.com/${githubUser}/blog-platform`,
       image: "public/images/blog.jpg",
