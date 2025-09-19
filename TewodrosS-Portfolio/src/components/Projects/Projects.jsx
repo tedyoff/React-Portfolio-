@@ -19,7 +19,7 @@ function Projects() {
       name: "Chat Application",
       desc: "Real-time chat app with WebSocket and JWT authentication.",
       tech: ["React", "Express", "Socket.io"],
-      link: "https://your-chatapp-demo-link.com",
+      link: "https://chat-application-nb7e.vercel.app/",
       github: `https://github.com/${githubUser}/chat-application`,
       image: "public/images/chatapp.jpg",
     },
