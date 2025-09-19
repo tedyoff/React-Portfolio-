@@ -13,17 +13,18 @@ function Projects() {
   tech: ["React", "Node.js", "MySQL", "Stripe"],
   link: "https://ecommerce-crud-api-integration-fullstack-qirs-bc8s5t5a6.vercel.app/",
   github: `https://github.com/tedyoff/ecommerce_CRUD_Api_integration_fullstack`,
-  image: "public/images/ecommerce-mysql.jpg",
+  image: "https://www.thedigitalenterprise.com/wp-content/uploads/2019/03/Building-Mobile-E-Commerce-App-%E2%80%93-A-Complete-Handbook.jpg",
 },
 
-    {
-      name: "Chat Application",
-      desc: "Real-time chat app with WebSocket and JWT authentication.",
-      tech: ["React", "Express", "Socket.io"],
-      link: "https://chat-application-nb7e.vercel.app/",
-      github: `https://github.com/${githubUser}/chat-application`,
-      image: "public/images/chatapp.jpg",
-    },
+  {
+  name: "Chat Application",
+  desc: "Real-time chat app with WebSocket and JWT authentication.",
+  tech: ["React", "Express", "Socket.io"],
+  link: "https://chat-application-nb7e.vercel.app/",
+  github: "https://github.com/tedyoff/Chat-Application",
+  image: "public/images/chatapp.jpg",
+},
+
     {
       name: "Student Attendance Tracker",
       desc: "App to track student attendance with secure login and data visualization.",
@@ -75,8 +76,8 @@ function Projects() {
   {
       name: "EventHub – Event Discovery & Booking Platform",
       desc: "A responsive web application for discovering and booking events. Users can browse upcoming events, view details, book tickets via EmailJS integration, and stay updated with their favorite events.",
-      tech: ["HTML5", "CSS3", "Bootstrap", "JavaScript", "EmailJS", "Responsive Design"],
-      link: "https://tedyoff.github.io/Eventhub-final-project/",
+      tech: ["HTML5", "CSS", "Bootstrap", "JavaScript", "EmailJS", "Responsive Design"],
+      link: "https://eventhub-final-project.vercel.app/",
       github: `https://github.com/tedyoff/Eventhub-final-project`,
       image: "public/images/storefront.jpg",
     },
