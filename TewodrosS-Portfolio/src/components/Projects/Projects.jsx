@@ -8,13 +8,14 @@ function Projects() {
 
   const projects = [
     {
-      name: "E-commerce App",
-      desc: "Full-stack MERN e-commerce application with cart & payment integration.",
-      tech: ["React", "Node.js", "MongoDB", "Stripe"],
-      link: "https://your-ecommerce-demo-link.com",
-      github: `https://github.com/${githubUser}/ecommerce-app`,
-      image: "public/images/ecommerce.jpg",
-    },
+  name: "E-commerce App",
+  desc: "Full-stack React + Node.js + MySQL e-commerce application with product management, cart system, checkout, and payment gateway integration.",
+  tech: ["React", "Node.js", "MySQL", "Stripe"],
+  link: "https://ecommerce-crud-api-integration-fullstack-qirs-bc8s5t5a6.vercel.app/",
+  github: `https://github.com/tedyoff/ecommerce_CRUD_Api_integration_fullstack`,
+  image: "public/images/ecommerce-mysql.jpg",
+},
+
     {
       name: "Chat Application",
       desc: "Real-time chat app with WebSocket and JWT authentication.",
@@ -27,7 +28,7 @@ function Projects() {
       name: "Student Attendance Tracker",
       desc: "App to track student attendance with secure login and data visualization.",
       tech: ["React", "Node.js", "MongoDB", "JWT"],
-      link: "https://your-student-attendance-demo.com",
+      link: "https://student-attendance-tracker-mocha-three.vercel.app/",
       github: `https://github.com/tedyoff/student-attendance-tracker`,
       image: "public/images/attendance.jpg",
     },
