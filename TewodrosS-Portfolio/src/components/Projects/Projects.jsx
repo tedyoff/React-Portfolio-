@@ -37,7 +37,7 @@ function Projects() {
     {
       name: "Portfolio Website",
       desc: "Personal portfolio built with React, Framer Motion, and modern UI design.",
-      tech: ["React", "Framer Motion", "CSS"],
+      tech: ["React", "Framer Motion", "CSS3"],
       link: "https://your-portfolio-demo.com",
       github: `https://github.com/tedyoff/Tewodros-Portofolio-using_HTML-CSS-JS`,
       image: "public/images/portfolio1.jpg",
@@ -68,12 +68,13 @@ function Projects() {
     },
     {
     name: "Amazon Frontend Clone",
-    desc: "A pixel-perfect Amazon clone frontend built with React, styled components, and responsive UI design.",
-    tech: ["React", "CSS", "Context API"],
+    desc: "Fully responsive Amazon clone with products, categories, cart, checkout, and secondary menu pages.",
+    tech: ["React", "Tailwind CSS", "React Router", "Context API", "React Icons"],
     link: "https://amazon-frontend-clone.vercel.app/", 
     github: "https://github.com/tedyoff/amazon-frontend-clone", 
     image: "public/images/Amazon.jpg",
   },
+
   {
       name: "EventHub – Event Discovery & Booking Platform",
       desc: "A responsive web application for discovering and booking events. Users can browse upcoming events, view details, book tickets via EmailJS integration, and stay updated with their favorite events.",
